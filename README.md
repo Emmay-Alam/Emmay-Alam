@@ -7,9 +7,10 @@ I'm also experienced with Git workflow and working in Agile!
 I recently finished a 1000+ hours intense bootcamp at App Academy which is highly selective and immersive where I spent more than 80 hours a week honing my technical skills.
 
 When not coding, I'm usually doing the following:
-- Going to the gym 
-- Trying new food across NYC
-- Going down YouTube rabbit holes of interesting topics
+
+- Going to the gym 🏋️‍♂️
+- Trying new food across NYC 🥣
+- Going down YouTube rabbit holes of interesting topics 💻
 
 Current Goals:
 
