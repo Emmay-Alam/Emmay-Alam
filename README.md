@@ -4,7 +4,7 @@ I'm Emmay, a software engineer with experience in building full stack web applic
 
 I'm also experienced with Git workflow and working in Agile!
 
-I recently finished a 1000+ hours intense bootcamp at App Academy which is highly selective and immersive where I spent more than 80 hours a week honing my technical skills.
+I recently finished a 1000+ hours intense bootcamp at App Academy, a highly selective and immersive coding bootcamp, where I spent more than 80 hours a week honing my technical skills.
 
 When not coding, I'm usually doing the following:
 
